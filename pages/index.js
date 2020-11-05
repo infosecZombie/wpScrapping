@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Ws Link</title>
+        <title>Danish</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
