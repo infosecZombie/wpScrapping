@@ -1,6 +1,7 @@
-For uploading data you need to follow these 3 steps
-1. git add .
-3. git commit -m "Your message you want"
-4. git push origin master
+1. cmd > cd linkedin
+balky 2nd step hy "npm init -y"
 
-Best of luck
+2. install packages it will take time (160 mb)
+"npm install --save puppeteer"
+"npm install --save "puppeteer-select"
+3. node test.js      (to run)
